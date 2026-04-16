@@ -243,7 +243,7 @@ Intelligent chatbot combining PDF document ingestion and live web scraping for c
 | 📜 Certification | Issuer | Year |
 |---|---|---|
 | AI-ML Virtual Internship (10 Weeks) | Google for Developers / AICTE & EduSkills | 2025 |
-| DBMS – Fundamentals & Advanced Concepts | Scalar Academy | — |
+| DBMS – Fundamentals & Advanced Concepts | Scalar Academy | 2025 |
 | Python Developer Certification | freeCodeCamp | 2026 |
 | JavaScript Developer Certification | freeCodeCamp | 2026 |
 | Legacy Responsive Web Design | freeCodeCamp | 2026 |
