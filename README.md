@@ -41,7 +41,7 @@ class KankanaBera:
 ## 💼 Experience
 
 ### 🏢 AI/ML Intern — Computer Vision & Software Development
-**Irisidea Technologies** &nbsp;|&nbsp; *May 2025 – Jul 2025*
+**Irisidea Technologies** &nbsp;|&nbsp; *May 2025 – October 2025*
 
 > Built an end-to-end **liquid purity detection system** using CNNs and classical CV techniques — managing the full ML lifecycle from data collection to model serialization and live prediction.
 
@@ -252,9 +252,9 @@ Intelligent chatbot combining PDF document ingestion and live web scraping for c
 
 ## 🌱 Currently Learning
 
-- ☁️ Deploying ML models on AWS / GCP
-- 🧩 MLOps — model versioning & CI/CD
-- 🧠 CNN architectures for production scale (VGG16, ResNet)
+- ☁️ Deploying ML models on AWS / GCP  
+- 🧩 MLOps — model versioning & CI/CD pipelines  
+- 📦 RAG pipelines & LLM application development
 
 ---
 
