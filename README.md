@@ -94,7 +94,7 @@ On-device Android app classifying waste into **5 categories** (Plastic, Paper, M
 - RecyclerView scan history with recyclability & compostability indicators
 - Non-blocking UI via ExecutorService background thread inference
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kankanabera)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kankanabera/Smart-Waste-Classifier)
 ![TFLite](https://img.shields.io/badge/TFLite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
@@ -112,7 +112,7 @@ Full-stack forecasting web app — pick a company, get a **7-day price forecast*
 - MSE benchmarking showed LSTM significantly outperforms Linear Regression
 - Flask REST API backend + interactive JS frontend with dropdown selection
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kankanabera)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kankanabera/Stock-Prediction)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
